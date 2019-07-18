@@ -18,7 +18,7 @@ requests==2.22.0
 ```python
 from currency_converter import convert
 
-convert(amount=1.0, from="usd", to="eur")
+convert(amount=1.0, frm="usd", to="eur")
 # 0.89
 ```  
 
