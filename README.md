@@ -6,7 +6,7 @@ Real time curreny converter
 Simple Python interface using 'exchangeratesapi.io' API  
 
 ### Installation :
-`pip install python-journee-mondiale`  
+`pip install python-rt-currency-converter`  
 
 ### Requirements :
 ```
